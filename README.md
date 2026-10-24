@@ -1,4 +1,4 @@
-## Hi there 👋
+*My bio is a work in progress.*
 
 <!--
 **Librarian-of-Stars/Librarian-of-Stars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
